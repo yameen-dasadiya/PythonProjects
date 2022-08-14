@@ -6,4 +6,3 @@ if fname == "Tony" and lname == "Stark":
     print(fname + lname + " is Genius!")
 else:
     print(fname + lname + " not genius")
-
